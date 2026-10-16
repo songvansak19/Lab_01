@@ -1,2 +1,3 @@
-# Ignore Bin Folder
+# Ignore VS Code settings and build output
+**/.vscode/
 **/bin/
